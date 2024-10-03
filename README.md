@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @mzampar
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently attending the Master Degree in Data Science and Artificial Intelligence at the University of Trieste.
+- 🎓 I have a Bachelor Degree in Math, attended at the University of Udine.
